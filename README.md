@@ -1,23 +1,10 @@
-# DSA in Typescript
+# DSA in JavaScript
 
-This is a repository for the DSA in Typescript course.
+This is a repository for the DSA in JavaScript.
 
 ## Prerequisites
 
 - Node.js
-- Typescript
-
-## Installation
-
-```bash
-npm install
-```
-
-## Usage
-
-```bash
-npm run start
-```
 
 ## License
 
