@@ -1,0 +1,11 @@
+{
+  "name": "dsa-ts",
+  "version": "1.0.0",
+  "description": "Data Struture and Algorithms done in TypeScript",
+  "main": "index.js",
+  "keywords": [
+    "dsa"
+  ],
+  "author": "Dilkhush Raj",
+  "license": "ISC"
+}
